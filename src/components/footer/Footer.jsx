@@ -7,7 +7,7 @@ import {RiTwitterXLine} from 'react-icons/ri'
 const Footer = () => {
   return (
     <footer>
-      <a href='_blank' className='footer__logo'>Sonal Khapre</a>
+      <a href='https://www.linkedin.com/in/sonal-khapre-8509a5216/'  className='footer__logo'>Sonal Khapre</a>
 
       <ul className='permalinks'>
         <li><a href='#home'>Home</a></li>

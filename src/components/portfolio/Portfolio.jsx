@@ -53,8 +53,8 @@ const data = [
     image: img6 ,
     title: 'Portfolio Website' ,
     description: 'A React portfolio webiste, built modern and responsive design using CSS3. It has various contact options including emailjs.',
-    github:'https://github.com/SonalKhapre/to-do-list' ,
-    demo: 'https://sonalkhapre.github.io/to-do-list/'
+    github:'https://github.com/SonalKhapre/SonalKhapre.github.io' ,
+    demo: 'https://sonalkhapre.github.io/'
   }
 ]
 
