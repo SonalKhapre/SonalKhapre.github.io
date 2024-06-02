@@ -5,7 +5,7 @@ import img2 from '../../assets/ssRestaurantFinal.png'
 import img3 from '../../assets/ssTextToSpeechFinal.png'
 import img4 from '../../assets/ssTicTacToe.png'
 import img5 from '../../assets/ssTodo.png'
-import img6 from '../../assets/ssProfile.png'
+import img6 from '../../assets/newport.png'
 
 const data = [
   {

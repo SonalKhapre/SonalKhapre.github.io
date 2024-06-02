@@ -40,12 +40,12 @@ header{
 
 .me{
     /* background: linear-gradient(var(--color-primary),transparent); */
-    width: 20rem;
-    height: 22rem;
+    width: 30rem;
+    height: 12rem;
     position:absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 15rem);
     margin-top: 4rem;
-    padding-bottom: 2rem;
+  padding-top: 2rem;
     border: solid 4px var(--color-primary);
     overflow: hidden;
     border-radius: 2rem;
@@ -54,10 +54,7 @@ header{
 .me:hover{
     border-color: var(--color-white);
 }
-.me img{
-   height: 480px;
-   width: 320px;
-}
+
 
 /* +++++++++++  SCROLL DOWN  +++++++++++ */
 .scroll__down{
@@ -105,7 +102,7 @@ header{
         width: 235px;
     }
     .me{
-        height: 17rem ;
+        height: 12rem ;
         width: 15rem;
         left: calc(50% - 7.5rem);
     }

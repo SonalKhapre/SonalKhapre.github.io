@@ -14,10 +14,10 @@ const Header = () => {
       <Cta />
       <HeaderSocials />
           <div className='me'>
-
-            <h2>WELCOME TO</h2>
-            <h2>MY</h2>
-            <h2>PORFOLIO</h2>
+         
+            <h2 data-aos="fade-right"  data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out">WELCOME TO</h2>
+            <h2 data-aos="fade-left"  data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" >MY</h2>
+            <h2 data-aos="fade-right"  data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out"  >PORFOLIO</h2>
           </div>
           <a href='#contact' className='scroll__down'>Scroll Down</a>
       </div>

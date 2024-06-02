@@ -5,6 +5,13 @@ import About from './components/about/About'
 import Portfolio from './components/portfolio/Portfolio'
 import Contact from './components/contacts/contact'
 import Footer from './components/footer/Footer'
+// Import AOS in your JavaScript file
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+// Initialize AOS
+AOS.init();
+
 
 const App = () => {
   return (
