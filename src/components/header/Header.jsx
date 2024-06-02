@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import Cta from './CTA'
 import HeaderSocials from './HeaderSocials'
-import sona from '../../assets/ME.jpeg'
+
 
 const Header = () => {
   return (
@@ -14,7 +14,7 @@ const Header = () => {
       <Cta />
       <HeaderSocials />
           <div className='me'>
-{/*             <img src={sona} alt='me'></img> */}
+
             <h2>WELCOME TO</h2>
             <h2>MY</h2>
             <h2>PORFOLIO</h2>
